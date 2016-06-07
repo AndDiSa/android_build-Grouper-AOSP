@@ -19,7 +19,7 @@
 # capitalized by convention.
 
 <<<<<<< HEAD
-export BUILD_ID=MHC19Q
+export BUILD_ID=MTC19T
 =======
-export BUILD_ID=MOB30J
->>>>>>> android-6.0.1_r43
+export BUILD_ID=MOB30M
+>>>>>>> android-6.0.1_r46
